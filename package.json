@@ -1,7 +1,7 @@
 {
   "name": "altfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "A DiscordJS Alt Finder that will send a message in a specific channel when the joined user's creation period is less than what you config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
